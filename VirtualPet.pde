@@ -10,9 +10,9 @@ void draw()
 {
   fill (0);
   textSize(46);
-  text("My Virtual Pet", 40, 70);
+  text("Maison Margiela...", 40, 70);
   textSize(15);
-  text("Derek Vasquez, Block 2", 120, 380);
+  text("rain on my umbrella...", 120, 380);
   text("all i see is numbers..", 30, 140);
   fill(34,139,34);
   ellipse(100, 244-30, 75, 75);
