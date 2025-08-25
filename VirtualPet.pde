@@ -15,7 +15,7 @@ void draw()
   text("rain on my umbrella...", 120, 380);
   text("all i see is numbers..", 30, 140);
   fill(34,139,34);
-  ellipse(100, 244-30, 75, 75);
+  ellipse(125, 244-30, 75, 75);
   fill (0);
   ellipse (75, 234-30, 10, 10);
   ellipse (120, 234-30, 10, 10);
