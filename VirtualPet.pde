@@ -15,11 +15,11 @@ void draw()
   text("rain on my umbrella...", 120, 380);
   text("all i see is numbers..", 30, 140);
   fill(34,139,34);
-  ellipse(125, 244-30, 75, 75);
+  ellipse(110, 244-30, 75, 75);
   fill (0);
-  ellipse (75, 234-30, 10, 10);
-  ellipse (120, 234-30, 10, 10);
-  arc(100, 255-30, 20, 10, 0, PI);
+  ellipse (79, 234-30, 10, 10);
+  ellipse (124, 234-30, 10, 10);
+  arc(104, 255-30, 20, 10, 0, PI);
   fill(85, 107, 47);
   arc(236, 255 - 30, 200, 200, PI, TWO_PI);
   fill(34,139,34);
