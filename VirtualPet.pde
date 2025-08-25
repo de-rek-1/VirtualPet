@@ -10,7 +10,7 @@ void draw()
 {
   fill (0);
   textSize(46);
-  text("Maison Margiela...", 35, 70);
+  text("Maison Margiela...", 25, 70);
   textSize(15);
   text("rain on my umbrella...", 120, 380);
   text("all i see is numbers..", 30, 140);
